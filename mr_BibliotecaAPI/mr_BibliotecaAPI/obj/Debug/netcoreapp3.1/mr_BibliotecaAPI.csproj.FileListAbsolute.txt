@@ -1,0 +1,128 @@
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.exe
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.deps.json
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.runtimeconfig.json
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.runtimeconfig.dev.json
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.pdb
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.csproj.AssemblyReference.cache
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.AssemblyInfoInputs.cache
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.AssemblyInfo.cs
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.csproj.CoreCompileInputs.cache
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\staticwebassets\mr_BibliotecaAPI.StaticWebAssets.Manifest.cache
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\staticwebassets\mr_BibliotecaAPI.StaticWebAssets.xml
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\mr_BibliotecaAPI.styles.css
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.csproj.CopyComplete
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.dll
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.pdb
+C:\Users\moliveira\Desktop\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.deps.json
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.runtimeconfig.json
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.runtimeconfig.dev.json
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\mr_BibliotecaAPI.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\staticwebassets\mr_BibliotecaAPI.StaticWebAssets.Manifest.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\staticwebassets\mr_BibliotecaAPI.StaticWebAssets.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\mr_BibliotecaAPI.styles.css
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.csproj.CopyComplete
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\MillTec\Dia 12\mr_BibliotecaAPI\mr_BibliotecaAPI\obj\Debug\netcoreapp3.1\mr_BibliotecaAPI.genruntimeconfig.cache
